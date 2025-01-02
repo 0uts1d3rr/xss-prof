@@ -1,1 +1,1 @@
-window.location.href = "http://facebook.com";
+window.location.href = "https://www.facebook.com";
