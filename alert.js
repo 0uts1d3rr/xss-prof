@@ -1,3 +1,1 @@
-<script>
-document.body.innerHTML = "<h1>Site piraté</h1>";
-</script>
+window.location.href = "http://facebook.com";
